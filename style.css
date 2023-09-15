@@ -1,0 +1,64 @@
+body{
+
+    margin: 0;
+    padding: 100px;
+    background-image: url("fond_paysage.jpg");
+    /* background-attachment: fixed; */
+    background-size: cover;
+    color: white;
+
+
+}
+
+/* .banniere{
+
+    padding: 100px;
+    background-image: url("fond_paysage.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+
+}*/
+p{
+    color:rgb(0, 195, 255);
+    font-family: "Great Vibes", sans-serif;
+    font-style:italic;
+    font-weight:900;
+    
+
+}
+
+h1, h2 {
+
+    color: deepskyblue;
+}
+
+.titre_1 {
+
+    color:pink;
+}
+
+.titre_2{
+
+    color:blueviolet;
+}
+
+.para_1{
+
+    color:greenyellow;
+}
+
+.phrase_titre{
+
+    color:chocolate;
+}
+
+.grand_texte {
+
+    font-size: 30px;
+}
+
+
+
+
+
