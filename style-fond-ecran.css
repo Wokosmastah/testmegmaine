@@ -1,0 +1,33 @@
+body{margin: 0;
+/* padding: 100px; */
+background-image: url("image5.jpg");
+/* background-attachment: fixed; */
+background-size: contain;
+color: white;}
+
+/*.entete{
+
+    margin:0;
+    background-color: black;
+    
+    
+}*/
+
+.entete {
+    margin:0;
+    background-color: black;
+    display: flex;
+    align-items: center; /* Centre verticalement */
+    justify-content: left; /* Centre horizontalement */
+    padding:20px;
+    font-family:"Great Vibes", sans-serif;
+    font-size:2em;
+    color:#E30A0A;
+    /* text-align: center; Centre le texte à l'intérieur du conteneur */
+  }
+  
+  .entete img {
+    max-width: 80px; /* Ajustez la largeur du logo selon vos besoins */
+    height: auto; /* Pour conserver les proportions du logo */
+    margin-right: 10px; /* Ajoute une marge à droite du logo pour l'espace entre le logo et le texte */
+  }
